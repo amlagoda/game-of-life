@@ -4,3 +4,5 @@ This is not a game in its usual meaning. The human player’s input just creates
 The Game of Life was described by John Conway in 1970. It came from a mathematical problem, and since 1970 it has attracted the interest of scientists in various fields: physics, biology, economics, and so on.
 The most amazing feature of this game is its simplicity, leading to many more complex patterns.
 Who knows, maybe this game touches something fundamental in this world?
+
+![](https://github.com/amlagoda/game-of-life/blob/main/game-of-life.gif)
